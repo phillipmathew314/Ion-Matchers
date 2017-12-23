@@ -1,0 +1,7 @@
+Ion-Matchers is a matching game involving the polyatomic ions of chemistry. 
+There will be a grid full of 6 random ions' names to begin with and their corresponding
+ formulas. The user must match all of them together, and when the user clears the board, a new set of 6 ions and their formulas 
+ will be printed out. If the user matches two squares incorrectly, then they will lose 1 point on their score. 
+ The user's final score will be based on how many correct matches the user got minus how many incorrect matches the user got. 
+ While the user tries to match the ions, their will be a timer counting down to zero for the desired duration of the game. When 
+ the game is over, the score will be recorded and placed into the high scores, if it is one of the all-time top 10 scores.
